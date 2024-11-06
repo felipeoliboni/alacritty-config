@@ -1,0 +1,18 @@
+[cursor.style]
+shape = "Underline"
+
+[font.bold]
+family = "Source Code Pro"
+style = "Bold"
+
+[font.italic]
+family = "Source Code Pro"
+style = "Italic"
+
+[font.normal]
+family = "Source Code Pro"
+style = "Regular"
+
+[window]
+dynamic_title = true
+opacity = 0.85
